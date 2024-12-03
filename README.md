@@ -1,10 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-# Internship_Project_React
-React project at my internship
-=======
-# Internship_Project_React
->>>>>>> eeba88d1390d5a89fbf699306a50aae2bb6290f8
-=======
-# Internship_Project_React
->>>>>>> eeba88d1390d5a89fbf699306a50aae2bb6290f8
+# React Django Project
+---
+I started this project at TMR Consulting as an intern for React full-stack web development. This project incorporates some unique features, such as OTP authentication using email on the login page. The OTP functionality adds an extra layer of security for users, ensuring that only authorized individuals can access the application. Additionally, I have worked on integrating a user-friendly interface with React, enhancing the performance and the overall user experience. As part of the backend, I used Node.js and Express for API development, along with MongoDB for managing user data and session information. The project also focuses on implementing best practices for responsive design, making it accessible across different devices.
